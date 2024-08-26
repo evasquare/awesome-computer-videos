@@ -186,6 +186,7 @@
 - [jerry woo hu: "Apple Design Part 1: Skeuomorphism"](https://youtu.be/jG2iaU-JVhI)
 - [jerry woo hu: "Apple Design Part 2: Beyond Flat"](https://youtu.be/8XjuE-2k1z8)
 - [twin fettuccine: I Tried to Become Literate with Duolingo ABC!](https://youtu.be/PxKjWK1OM5Q)
+- [Juxtopposed: The Identity Crisis of Nothing’s UI - My Review & Redesign ](https://youtu.be/xKLKl3H9rro)
 
 
 ## Etc
