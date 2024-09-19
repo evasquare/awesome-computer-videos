@@ -194,6 +194,7 @@
 - [ThePrimeTime: Have Strong Opinions](https://youtu.be/nW567LI0y08)
 - [Daniel Rivera: How To Install Ghidra on Mac with Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra)](https://youtu.be/LJz6MdzEmjM)
 - [ThePrimeagenClips: Apple Solved Hallucinating?](https://youtu.be/5dr6HMTW5Kw)
+- [ThePrimeTime: Nobody Cares About Technical GitHub Projects](https://youtu.be/uA-yk1O3uq4)
 
 ### Minecraft
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
