@@ -22,6 +22,10 @@
 - [Matt Pocock: Should you use return types?](https://youtu.be/nwSe95uFN8E)
 
 
+### PHP
+- [Aaron Francis: PHP doesn't suck (anymore)](https://youtu.be/ZRV3pBuPxEQ)
+
+
 ### Swift
 - [freeCodeCamp: Swift Programming Tutorial](https://youtu.be/8Xg7E9shq0U)
 
