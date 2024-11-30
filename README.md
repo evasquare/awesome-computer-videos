@@ -94,6 +94,7 @@
 ### Networking
 - [freeCodeCamp: How does the internet work?](http://youtu.be/zN8YNNHcaZc)
 - Playlist: [NetworkChuck: FREE CCNA 200-301 - Complete Course](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+- [Kevin Fang: How This Missing Shell Option Took Down Cloudflare](https://youtu.be/kUtarOlOT3Y)
 
 
 ### Containerization
