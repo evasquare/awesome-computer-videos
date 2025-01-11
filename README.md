@@ -88,7 +88,7 @@
 - [Tom Delalande: Authentication is a developer nightmare](https://youtu.be/IThLjsDUG0g)
 
 
-## Infrastructures
+## Infrastructure
 - [Tom Delalande: The cloud is over-engineered and overpriced (no music)](https://youtu.be/jFrGhodqC08)
 
 ### Networking
