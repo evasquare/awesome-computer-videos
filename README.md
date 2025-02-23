@@ -68,6 +68,13 @@
 	- Reference (Website): [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 
 
+## Backend Development
+- [Web Dev Simplified: What Is JWT and Why Should You Use JWT](https://youtu.be/7Q17ubqLfaM)
+
+### Spring
+- [Rytis Codes: Spring Security for REST API with Spring Boot 3](https://youtube.com/playlist?list=PLVuqGBBX_tP3KmownF68ifFmgPQt-ujBg)
+
+
 ## Applications
 
 ### Mobile App Development
@@ -82,10 +89,6 @@
 #### visionOS
 - [WWDC23: Meet UIKit for spatial computing](https://youtu.be/hoCLfOfbvKk)
 - [WWDC23: Detect animal poses in Vision](https://youtu.be/wz6utGmG3os)
-
-
-## Backend Development
-- [Tom Delalande: Authentication is a developer nightmare](https://youtu.be/IThLjsDUG0g)
 
 
 ## Infrastructure
