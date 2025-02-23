@@ -9,17 +9,6 @@
 - [Low Level Learning: why rust libraries may never exist.](https://youtu.be/769VqNup21Q)
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 
-### Java
-- [Coding with John: Never Write a Getter or Setter in Java Again](https://youtu.be/ftKBLu47u_U)
-- [Coding with John: Lambda Expressions in Java - Full Simple Tutorial](https://youtu.be/tj5sLSFjVj4)
-- [Coding with John: Generics In Java - Full Simple Tutorial](https://youtu.be/K1iu1kXkVoA)
-- [Coding with John: Multithreading in Java Explained in 10 Minutes](https://youtu.be/r_MbozD32eo)
-- [Will Tollefson: The Synchronized Keyword in Java Multithreading](https://youtu.be/FpNRXz696ZY)
-- [Geekific: The Singleton Pattern Explained and Implemented in Java | Creational Design Patterns](https://youtu.be/tSZn4wkBIu8)
-
-### Go
-- [Melkey: "Go Concurrency Explained: Go Routines & Channels"](https://youtu.be/B9uR2gLM80E)
-
 
 ### JavaScript
 - [Matt Pocock: "Import vs Require: The Biggest JavaScript Divide"](https://youtu.be/6_JNPmjSevo)
@@ -27,6 +16,15 @@
 #### TypeScript
 - [Matt Pocock: Enums considered harmful](https://youtu.be/jjMbPt_H3RQ)
 - [Matt Pocock: Should you use return types?](https://youtu.be/nwSe95uFN8E)
+
+
+### Java
+- [Coding with John: Never Write a Getter or Setter in Java Again](https://youtu.be/ftKBLu47u_U)
+- [Coding with John: Lambda Expressions in Java - Full Simple Tutorial](https://youtu.be/tj5sLSFjVj4)
+- [Coding with John: Generics In Java - Full Simple Tutorial](https://youtu.be/K1iu1kXkVoA)
+- [Coding with John: Multithreading in Java Explained in 10 Minutes](https://youtu.be/r_MbozD32eo)
+- [Will Tollefson: The Synchronized Keyword in Java Multithreading](https://youtu.be/FpNRXz696ZY)
+- [Geekific: The Singleton Pattern Explained and Implemented in Java | Creational Design Patterns](https://youtu.be/tSZn4wkBIu8)
 
 
 ### PHP
@@ -46,6 +44,10 @@
 - Playlist: [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
 
 
+### Go
+- [Melkey: "Go Concurrency Explained: Go Routines & Channels"](https://youtu.be/B9uR2gLM80E)
+
+
 ### Assembly
 
 #### ARM
@@ -53,7 +55,7 @@
 - Playlist: [LaurieWired: Practical ARM Assembly Tutorial Series](https://youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg)
 
 
-### Chip-8
+## Chip-8
 - [VoxelRifts: Making a Chip-8 Emulator](https://youtu.be/YtSgV3gY3fs)
 	- Reference(Document): [Cowgod's Chip-8 Technical Reference v1.0](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 
