@@ -159,6 +159,10 @@
 	- Reference (Repository): [https://github.com/microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
 
 
+## Nintendo Switch
+- [James-Money: Understanding the Nintendo Switch Browser](https://youtu.be/jSVT1ZvkftE)
+
+
 ## Computer Science
 - [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
 - [Max's Tech: Read and Write in Hexadecimal, The Easy Way!](https://youtu.be/bt4zavZCrLg)
